@@ -4,6 +4,8 @@
 
 - **Nama:** [M Faizal Faiz]
 - **NIM:** [24090020]
+- **Username:** [muhfaiz0601@gmail.com]
+- **Password:** [24090020]
 
 ## Link Repositori
 
@@ -26,3 +28,4 @@ Project ini adalah implementasi front-end dari desain antarmuka web yang mencaku
 - **3. Halaman List Data Produk (`products.html`):**
   - Fungsi: Menampilkan daftar produk dalam format tabel.
   - Fitur: Data diambil dari array dummy. Menggunakan JavaScript (**forEach**) untuk merender tabel. Terdapat tombol **Edit** (menampilkan `alert`) dan **Delete** (dengan konfirmasi `confirm()` dan menghapus baris dari DOM).
+
